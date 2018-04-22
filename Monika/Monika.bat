@@ -1,0 +1,2 @@
+node monikabot.js
+@pause
